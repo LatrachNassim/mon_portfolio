@@ -100,6 +100,18 @@ body {
 
 .progress {
     margin-top: 17px;
+    border: .5px solid grey; 
 }
 
+.interet {
+    padding: 0;
+}
+
+.interet li {
+    list-style-type: none;
+}
+
+.interet i {
+    margin-right: 5px;
+}
 
